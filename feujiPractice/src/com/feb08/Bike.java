@@ -1,5 +1,6 @@
 package com.feb08;
 
+//Author is Sai
 public class Bike extends Vehical {
 	@Override
 	public void consuming(String fuel) {

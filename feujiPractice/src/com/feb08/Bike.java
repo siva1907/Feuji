@@ -13,7 +13,6 @@ public class Bike extends Vehical {
 		case "p":System.out.println("runs by petroland had "+noOfTires+" of tires");
 		break;
 		case "e":System.out.println("runs by electricityand had "+noOfTires+" of tires");
-		break;
 		default:System.out.println("runs by fueland had "+noOfTires+" of tires");
 		}
 	}
